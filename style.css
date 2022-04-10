@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    background-color: rgb(5, 5, 41);
+    color: aqua;
+}
+#profile{
+    width: 120px;
+    border-radius: 50%;
+    border: 10px solid aqua;
+}
+h1, #perfil{
+    display: inline-block;
+}
+
+#left-slash{
+    padding: 0px 10px ;
+    width:400px;
+    height: 800px;
+    text-align: justify;
+    box-shadow: 2px 0px 10px rgb(5, 15, 58);
+
+}
