@@ -12,12 +12,18 @@
     src: url(./Assets/FreePixel.woff);
 } 
 
+ h2{
+    color: rgb(0, 0, 31);
+    background-color: aqua;
+    border-radius: 5px;
+    padding:0px 5px;
+}
 
 #profile{
     margin-top: 10px;
     width: 120px;
     border-radius: 50%;
-    border: 3px solid aqua;
+    box-shadow: 2px 0px 10px aqua;
 }
 h1, #perfil{
     display: inline-block;
@@ -28,15 +34,12 @@ h2{
 }
 
 #left-slash{
-    margin: 10px 2px;
+    margin: 20px 20px;
     border-radius: 2%;
     padding: 0px 10px ;
     width:400px;
-    height: 850px;
+    height: 710px;
     text-align: justify;
     box-shadow: 2px 0px 10px aqua;
     overflow: hidden;
-  
-
-
 }
