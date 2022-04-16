@@ -23,11 +23,12 @@
     margin-top: 10px;
     width: 120px;
     border-radius: 50%;
-    box-shadow: 2px 0px 10px aqua;
+    box-shadow: 0px 0px 3px 2px aqua;
 }
-h1, #perfil{
-    display: inline-block;
-    
+h1{
+   float: right ;
+  position: relative;
+  top: 47px;
 }
 h2{
     margin: 20px ;
@@ -38,8 +39,13 @@ h2{
     border-radius: 2%;
     padding: 0px 10px ;
     width:400px;
-    height: 710px;
+    height: 720px;
     text-align: justify;
-    box-shadow: 2px 0px 10px aqua;
+    box-shadow: 0px 0px 3px 2px aqua;
     overflow: hidden;
 }
+
+#left-slash p{
+    margin-left: 20px;
+}
+
